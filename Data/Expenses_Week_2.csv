@@ -1,0 +1,28 @@
+Expenses_Date,Expenses_Amount,Expenses_Description,Expenses_Category,Day_Type
+01/12/2025,132.00,Transpo + Move It,Transportation,Regular
+02/12/2025,79.00,Move It,Transportation,School
+02/12/2025,530.00,Meralco Load,Power Bill,School
+02/12/2025,200.00,Water Bill,Water Bill,School
+02/12/2025,784.00,Grocery,Grocery,School
+02/12/2025,150.00,Food,Week 1 (1-6),School
+03/12/2025,50.00,Train,Transportation,School
+03/12/2025,270.00,Food,Week 1 (1-6),School
+04/12/2025,35.00,Water,Week 1 (1-6),Regular
+04/12/2025,200.00,Laundry,Laundry,Regular
+04/12/2025,150.00,Food,Week 1 (1-6),Regular
+05/12/2025,165.00,Paskulayan Merch,School,School
+05/12/2025,464.00,Food,Week 1 (1-6),School
+06/12/2025,280.00,LRT + Move It,Transportation,School
+06/12/2025,320.00,Food,Week 1 (1-6),School
+08/12/2025,60.00,Transpo,Transportation,Regular
+09/12/2025,285.00,Food,Week 2 (7-13),School
+09/12/2025,500.00,Derma Consultation,Personal,School
+10/12/2025,169.00,Loklok Subscription,Personal,School
+10/12/2025,337.00,Food,Week 2 (7-13),School
+11/12/2025,95.00,Monster,Week 2 (7-13),Regular
+11/12/2025,150.00,Food,Week 2 (7-13),Regular
+11/12/2025,400.00,Laundry,Laundry,Regular
+12/12/2025,65.00,Transpo,Transportation,School
+12/12/2025,47.00,Gatorade,Week 2 (7-13),School
+12/12/2025,334.00,Food,Week 2 (7-13),School
+13/12/2025,110.00,Food,Week 2 (7-13),School
