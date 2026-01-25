@@ -1,0 +1,142 @@
+Expenses_Date,Expenses_Amount,Expenses_Description,Expenses_Category,Day_Type
+01/12/2025,132.00,Transpo + Move It,Transportation,Regular
+02/12/2025,79.00,Move It,Transportation,School
+02/12/2025,530.00,Meralco Load,Power Bill,School
+02/12/2025,200.00,Water Bill,Water Bill,School
+02/12/2025,784.00,Grocery,Grocery,School
+02/12/2025,150.00,Food,Week 1 (1-6),School
+03/12/2025,50.00,Train,Transportation,School
+03/12/2025,270.00,Food,Week 1 (1-6),School
+04/12/2025,35.00,Water,Week 1 (1-6),Regular
+04/12/2025,200.00,Laundry,Laundry,Regular
+04/12/2025,150.00,Food,Week 1 (1-6),Regular
+05/12/2025,165.00,Paskulayan Merch,School,School
+05/12/2025,464.00,Food,Week 1 (1-6),School
+06/12/2025,280.00,LRT + Move It,Transportation,School
+06/12/2025,320.00,Food,Week 1 (1-6),School
+08/12/2025,60.00,Transpo,Transportation,Regular
+09/12/2025,285.00,Food,Week 2 (7-13),School
+09/12/2025,500.00,Derma Consultation,Personal,School
+10/12/2025,169.00,Loklok Subscription,Personal,School
+10/12/2025,337.00,Food,Week 2 (7-13),School
+11/12/2025,95.00,Monster,Week 2 (7-13),Regular
+11/12/2025,150.00,Food,Week 2 (7-13),Regular
+11/12/2025,400.00,Laundry,Laundry,Regular
+12/12/2025,65.00,Transpo,Transportation,School
+12/12/2025,47.00,Gatorade,Week 2 (7-13),School
+12/12/2025,334.00,Food,Week 2 (7-13),School
+13/12/2025,110.00,Food,Week 2 (7-13),School
+15/12/2025,60.00,Transpo,Transportation,Regular
+16/12/2025,288.00,Exchange Gift,Personal,School
+16/12/2025,340.00,Food,Week 3 (14-20),School
+16/12/2025,40.00,Transpo,Transportation,School
+17/12/2025,360.00,Food,Week 3 (14-20),School
+16/12/2025,400.00,Wifi,Internet Bill,School
+18/12/2025,290.00,Kenny Rogers,Week 3 (14-20),Regular
+18/12/2025,20.00,Transpo,Transportation,Regular
+18/12/2025,"2,450.00",Gym Membership,Gym,Regular
+18/12/2025,200.00,Move It,Transportation,Regular
+19/12/2025,191.00,Move It,Transportation,School
+20/12/2025,517.00,InDrive,Transportation,School
+21/12/2025,50.00,Transpo,Transportation,Weekend
+21/12/2025,120.00,Food,Week 4 (21-27),Weekend
+22/12/2025,"1,927.00",Chili's,Birthday,Regular
+22/12/2025,273.00,InDrive,Transportation,Regular
+22/12/2025,529.00,GLoan,Loan,Regular
+23/12/2025,25.00,Water,Week 4 (21-31),Regular
+23/12/2025,213.00,Move It,Transportation,Regular
+23/12/2025,"8,000.00",Loan,Loan,Regular
+23/12/2025,"6,000.00",To Mommy,Loan,Regular
+23/12/2025,830.00,Jollibee,Week 4 (21-31),Regular
+24/12/2025,203.00,Food,Week 4 (21-31),Regular
+24/12/2025,200.00,Pamasko,Personal,Regular
+24/12/2025,269.00,Food,Week 4 (21-31),Regular
+24/12/2025,50.00,Transpo,Transportation,Regular
+25/12/2025,300.00,Move It,Transportation,Regular
+26/12/2025,558.00,Food,Week 4 (21-31),Holiday
+26/12/2025,110.00,Transpo,Transportation,Regular
+26/12/2025,434.00,Cetaphil + Bactidol,Personal,Regular
+27/12/2025,215.00,Move It,Transportation,Weekend
+28/12/2025,174.00,McDo,Week 4 (21-31),Weekend
+28/12/2025,25.00,Transpo,Transportation,Weekend
+28/12/2025,149.00,Dunkin,Week 4 (21-31),Weekend
+28/12/2025,263.00,Chooks,Personal,Weekend
+28/12/2025,50.00,ODL,Personal,Weekend
+28/12/2025,335.00,Cinema,Personal,Weekend
+29/12/2025,50.00,Transpo,Transportation,Regular
+29/12/2025,225.00,Food,Week 4 (21-31),Regular
+29/12/2025,"1,582.00",Uniqlo,Personal,Regular
+30/12/2025,300.00,Move It,Transportation,Regular
+30/12/2025,37.00,Bandaid,Personal,Regular
+31/12/2025,47.00,Cream,Week 4 (21-31),Holiday
+31/12/2025,69.00,Move It,Transportation,Holiday
+31/12/2025,100.00,Food,Week 4 (21-31),Holiday
+31/12/2025,257.00,LazPay Later,Loan,Holiday
+31/12/2025,"1,973.00",Excess,Excess,Holiday
+01/01/2026,70.00,UV,Transportation,Holiday
+01/01/2026,204.00,McDo,Week 1 (1-10),Holiday
+01/01/2026,60.00,Tricycle,Transportation,Holiday
+03/01/2026,"6,500.00",Jan Rent,Jan Rent,Weekend
+03/01/2026,150.00,Move It,Transportation,Weekend
+03/01/2026,96.00,Yogurt,Week 1 (1-10),Weekend
+05/01/2026,"1,745.00",Meal Prep,Week 1 (1-10),Regular
+05/01/2026,80.00,UV,Transportation,Regular
+05/01/2026,25.00,LRT,Transportation,Regular
+06/01/2026,200.00,Water Bill,Water Bill,School
+06/01/2026,29.00,Spoon,Week 1 (1-10),School
+06/01/2026,60.00,Food,Week 1 (1-10),School
+06/01/2026,300.00,Book,Personal,School
+07/01/2026,60.00,Food,Week 1 (1-10),School
+07/01/2026,150.00,Move It,Transportation,School
+07/01/2026,799.00,Earbuds,Personal,School
+08/01/2026,85.00,Spotify Subscription,Personal,Regular
+08/01/2026,220.00,Laundry,Laundry,Regular
+08/01/2026,350.00,Move It,Transportation,Regular
+10/01/2026,25.00,Water,Week 1 (1-10),School
+10/01/2026,247.00,Move It,Transportation,School
+10/01/2026,169.00,Loklok Subscription,Personal,School
+11/01/2026,134.00,Food,Week 2 (11-17),Weekend
+12/01/2026,169.00,Loklok Subscription,Personal,Regular
+12/01/2026,200.00,Move It,Transportation,Regular
+12/01/2026,25.00,LRT,Transportation,Regular
+13/01/2026,150.00,Move It,Transportation,School
+13/01/2026,584.00,Food,Week 2 (11-17),School
+13/01/2026,100.00,InDrive,Transportation,School
+13/01/2026,150.00,Timezone,Personal,School
+13/01/2026,15.00,Jeep,Transportation,School
+14/01/2026,700.00,Coffee + Food,Week 2 (11-17),School
+14/01/2026,35.00,Bus,Transportation,School
+14/01/2026,20.00,Jeep,Transportation,School
+15/01/2026,550.00,Meralco Load,Power Bill,Regular
+15/01/2026,400.00,Wifi,Internet Bill,Regular
+15/01/2026,71.00,Move It,Transportation,Regular
+15/01/2026,282.00,Food,Week 2 (11-17),Regular
+15/01/2026,20.00,LRT,Transportation,Regular
+16/01/2026,202.00,Jollibee,Week 2 (11-17),School
+16/01/2026,145.00,McDo,Week 2 (11-17),School
+17/01/2026,35.00,Jeep,Transportation,School
+17/01/2026,461.00,Food,Week 2 (11-17),School
+17/01/2026,100.00,Play,Personal,School
+17/01/2026,350.00,Move It,Transportation,School
+18/01/2026,"2,285.00",Meal Prep,Week 3 (18-24),Weekend
+19/01/2026,50.00,Jeep,Transportation,Regular
+19/01/2026,130.00,Food,Week 3 (18-24),Regular
+19/01/2026,220.00,Laundry,Laundry,Regular
+20/01/2026,73.00,Spork + Water,Week 3 (18-24),School
+20/01/2026,450.00,Food,Week 3 (18-24),School
+21/01/2026,706.00,Watson,Personal,School
+21/01/2026,255.00,Coco + Popeyes,Week 3 (18-24),School
+22/01/2026,529.00,GLoan,Loan,Regular
+22/01/2026,15.00,Food,Week 3 (18-24),Regular
+23/01/2026,265.00,Food,Week 3 (18-24),School
+24/01/2026,550.00,Gimik,Personal,School
+24/01/2026,404.00,Food,Week 3 (18-24),School
+24/01/2026,100.00,Play,Personal,School
+24/01/2026,220.00,Laundry,Laundry,School
+24/01/2026,12.00,Jeep,Transportation,School
+25/01/2026,220.00,Laundry,Laundry,Weekend
+25/01/2026,"2,450.00",Gym Payment,Gym,Weekend
+24/01/2026,450.00,Dura Box,Personal,School
+25/01/2026,70.00,LRT,Transportation,Weekend
+25/01/2026,244.00,Food,Week 3 (18-24),Weekend
+25/01/2026,320.00,InDrive,Transportation,Weekend
